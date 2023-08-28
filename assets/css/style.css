@@ -1,0 +1,97 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Lobster', cursive;
+}
+
+a.nav-link {
+    font-size: 16px;
+    color: #ffffff !important;
+    font-family: "Cabin", sans-serif;
+    font-weight: normal;
+  }
+  a.navbar-brand {
+    width: 137px;
+    height: 46px;
+    font-size: 37px;
+    font-family: "Lobster", cursive;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+  }
+ .titulo{
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+    font-size: 40pt;
+    color: #373A3C;
+ }
+ hr {
+     height: 0px; 
+     border: none; 
+     border-top: 1px solid black;
+     }
+.h5-titulo{
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+    font-size: 20pt;
+    color: #373A3C;
+}
+.btn{
+  font-family: "Cabin", sans-serif;
+  font-size: 16pt;
+  font-weight:400 ;
+  color: #373A3C;
+}
+p{
+  font-family: "Cabin", sans-serif;
+  line-height: 1.5rem;
+  font-size: 12pt;
+  font-weight: normal ;
+  color: #373A3C;
+}
+h4{
+  font-family: "Cabin", sans-serif;
+  font-weight: normal ;
+  text-decoration: underline;
+}
+h1{
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+  color: #373A3C;
+  font-size: 40pt;
+}
+h5{
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+  color: #373A3C;
+}
+.letter{
+  background-color: #DC3545;
+}
+.h1-letter{
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+  font-size: 30pt;
+  color: #ffffff;
+}
+.txt-letter{
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20pt;
+}
+.txt-ricomida{
+  font-family: "Lobster", cursive;
+  color: #ffffff;
+}
+.btn1{
+  text-align: center;
+  padding-bottom: 100px;
+}
+.btn-letter{
+  font-family: "Cabin", sans-serif;
+  color: #ffffff;
+}
+.bg-footer{
+  background-color: #373A3C;
+}
+
